@@ -17,7 +17,7 @@ Audita enlaces internos y detecta carpetas vacías dentro de tu vault de Obsidia
 - Interfaz con opciones dentro de los ajustes del plugin
 
 
-## 🚀 Instalación
+## Instalación
 
 ### Método manual (GitHub)
 
@@ -29,7 +29,7 @@ Audita enlaces internos y detecta carpetas vacías dentro de tu vault de Obsidia
 
 > Asegúrate de tener activados los *Community plugins*.
 
-## 🧠 Uso
+## Uso
 
 1. Ve a **Settings → LinkAudit**
 2. Selecciona la carpeta a analizar
@@ -54,7 +54,7 @@ Audita enlaces internos y detecta carpetas vacías dentro de tu vault de Obsidia
 LinkAudit-plugin/
 ├── main.js
 ├── manifest.json
-└─ styles.css
+└── styles.css
 ```
 
 ## Licencia
