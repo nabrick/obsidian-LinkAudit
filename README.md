@@ -53,17 +53,17 @@ Audita enlaces internos y detecta carpetas vacías dentro de tu vault de Obsidia
 ```
 LinkAudit-plugin/
 ├── main.js
+├── data.json
 ├── manifest.json
+├── package.json
 └── styles.css
 ```
 
 ## Licencia
-
-Este proyecto está bajo licencia **MIT**.
+Este proyecto está bajo licencia **MIT**
 
 ## Contribuciones
-
-Pull requests y mejoras son bienvenidas.
+Pull requests y mejoras son bienvenidas
 
 ## Documentación de la API
 Consulta https://github.com/obsidianmd/obsidian-api
