@@ -1,0 +1,12 @@
+{
+    "name": "linkaudit-plugin",
+    "version": "1.0.0",
+    "description": "Audita enlaces internos y carpetas vacías en tu Vault de Obsidian",
+    "main": "main.js",
+    "scripts": {
+      "build": "echo 'No build step required for Obsidian plugin.'"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+  }
+  

@@ -1,0 +1,72 @@
+/* styles.css */
+
+.link-audit-container {
+  font-family: var(--font-interface);
+  color: var(--text-normal);
+  background-color: var(--background-primary);
+  padding: 1rem;
+}
+
+.link-audit-container h2,
+.link-audit-container h3 {
+  color: var(--text-title-h1);
+  border-bottom: 1px solid var(--background-modifier-border);
+  padding-bottom: 0.2em;
+  margin-top: 1.5em;
+  text-align: center;
+}
+
+.link-audit-container ul {
+  list-style: none;
+  padding-left: 1em;
+  margin-top: 0.5em;
+}
+
+.link-audit-container li {
+  margin: 0.2em 0;
+  padding: 0.2em 0.5em;
+  border-radius: 5px;
+  transition: background-color 0.2s ease;
+}
+
+.link-audit-container li:hover {
+  background-color: var(--background-modifier-hover);
+}
+
+.link-audit-container a {
+  text-decoration: none;
+  color: var(--text-accent);
+}
+
+.link-audit-container a:hover {
+  text-decoration: underline;
+}
+
+.folders-audit-container {
+  font-family: var(--font-interface);
+  color: var(--text-normal);
+  background-color: var(--background-primary);
+  padding: 1rem;
+}
+
+.folders-audit-container h2 {
+  color: var(--text-title-h1);
+  margin-top: 1em;
+  border-bottom: 1px solid var(--background-modifier-border);
+  padding-bottom: 0.2em;
+}
+
+.folders-audit-container ul {
+  list-style: none;
+  padding-left: 1em;
+}
+
+.folders-audit-container li {
+  padding: 0.2em 0.5em;
+  margin: 0.2em 0;
+  border-radius: 5px;
+}
+
+.folders-audit-container li:hover {
+  background-color: var(--background-modifier-hover);
+}
